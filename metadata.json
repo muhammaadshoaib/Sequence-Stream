@@ -1,0 +1,6 @@
+{
+  "name": "BioCloud Analyzer",
+  "description": "A modern educational and research-oriented bioinformatics platform for DNA and protein sequence analysis, visualization, and cloud-ready workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
